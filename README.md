@@ -7,6 +7,7 @@
 - [Graphic](#graphic)
 - [MarkDown](#markdown)
 - [Efficiency](#efficiency)
+- [Translate](#translate)
 
 
 ## Graphic
@@ -29,3 +30,7 @@
 ## Efficiency
 
 - [百度脑图](http://naotu.baidu.com/) - 控制创意，如此简单，在线编辑脑图
+
+## Translate
+
+- [Google Translate](https://translate.google.cn/) - Google Translate, fast, accurate and concise
