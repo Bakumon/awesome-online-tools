@@ -44,3 +44,5 @@
 - [Cmd.io](http://cmd.to/) - Online entertainment command line
 - [演说.io](http://yanshuo.io/) - MarkDown to PPT
 - [觅恩众网](https://e.mezw.com/) - Convert the URL to emoji (China)
+- [asciiworld](http://www.asciiworld.com/) - 很多代码神注释，支持文字图片生成注释
+- [whatanime](https://whatanime.ga/) - 根据截图，搜动漫
