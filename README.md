@@ -22,6 +22,7 @@
 - [tinypng](https://tinypng.com/) - Smart PNG and JPEG compression
 - [ILoveIMG](http://www.iloveimg.com/) - every tool you could want to edit images
 - [Textik](https://textik.com/) - ASCII diagrams editor
+- [emojipedia](http://emojipedia.org/) - 各种类型的emoji表情
 
 ## MarkDown
 
