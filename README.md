@@ -53,6 +53,10 @@
 - [SM.MS](https://sm.ms/) - 优质图床，支持 https
 - [roop.io](https://reep.io/) - 有密码保护的文件分享
 
+## develop
+
+- [gitignore.io](https://www.gitignore.io/) - 为各种语言的项目生产 .ignore 文件
+
 ## Interesting
 
 - [Cmd.io](http://cmd.to/) - Online entertainment command line
