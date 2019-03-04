@@ -10,7 +10,9 @@
 - [Efficiency](#efficiency)
 - [Translate](#translate)
 - [Website](#website)
+- [Develop](#develop)
 - [Interesting](#interesting)
+- [Format](#format)
 
 
 ## Graphic
@@ -53,7 +55,7 @@
 - [SM.MS](https://sm.ms/) - 优质图床，支持 https
 - [roop.io](https://reep.io/) - 有密码保护的文件分享
 
-## develop
+## Develop
 
 - [gitignore.io](https://www.gitignore.io/) - 为各种语言的项目生产 .ignore 文件
 
