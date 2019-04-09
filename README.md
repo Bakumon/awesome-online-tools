@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Graphic](#graphic)
+- [Screenshot](#screenshot)
 - [MarkDown](#markdown)
 - [Test](#test)
 - [Efficiency](#efficiency)
