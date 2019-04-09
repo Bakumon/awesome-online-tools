@@ -27,6 +27,9 @@
 - [Textik](https://textik.com/) - ASCII diagrams editor
 - [emojipedia](http://emojipedia.org/) - 各种类型的emoji表情
 
+## Screenshot
+- [Screen Guru](https://screen.guru/) - Take clean screenshot of any websites
+
 ## MarkDown
 
 - [StackEdit](https://stackedit.io/) - Very elegant Markdown editor 👍 
