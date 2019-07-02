@@ -64,6 +64,7 @@
 ## Develop
 
 - [gitignore.io](https://www.gitignore.io/) - 为各种语言的项目生产 .ignore 文件
+- [defkey.com](https://defkey.com/) - 已知道应用热键列表网站，为系统热键设置提供指导
 
 ## Interesting
 
@@ -81,4 +82,5 @@
 - [JMESPath](https://www.rdtoc.com/tools/jmespath) - JMESPath提取工具
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - JSONPath提取工具
 - [TableConvert](https://tableconvert.com/) - 强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式
+- [carbon.now.sh](https://carbon.now.sh/) - Create and share beautiful images of your source code
 
