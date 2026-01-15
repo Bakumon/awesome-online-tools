@@ -59,6 +59,7 @@
 
 ## Website
 
+- [AllInOneTools](https://allinonetools.net) – A collection of free, privacy-first online tools including calculators, converters, PDF, image, and SEO utilities.
 - [SM.MS](https://sm.ms/) - 优质图床，支持 https
 - [roop.io](https://reep.io/) - 有密码保护的文件分享
 
