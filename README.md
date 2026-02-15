@@ -86,6 +86,7 @@
 - [JMESPath](https://www.rdtoc.com/tools/jmespath) - JMESPath提取工具
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - JSONPath提取工具
 - [Toolunify](https://www.toolunify.com/en/) - The ultimate suite of 40+ free online developer & utility tools (JSON Formatter, Base64, QR Codes, Unit Converter & more).
+- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formatting—all processed 100% locally in your browser.
 - [TableConvert](https://tableconvert.com/) - 强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式
 - [carbon.now.sh](https://carbon.now.sh/) - Create and share beautiful images of your source code
 
