@@ -68,6 +68,10 @@
 
 - [gitignore.io](https://www.gitignore.io/) - 为各种语言的项目生产 .ignore 文件
 - [defkey.com](https://defkey.com/) - 已知道应用热键列表网站，为系统热键设置提供指导
+- [Redirect Checker](https://redirect-checker.autocompany.workers.dev) - HTTP 重定向链分析器，检测重定向循环，支持多种 User-Agent
+- [JSON Viewer](https://json-viewer.autocompany.workers.dev) - 在线 JSON 格式化查看器，支持语法高亮和折叠
+- [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev) - 全球 DNS 传播检查，支持 A/AAAA/CNAME/MX/NS/TXT 记录
+- [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev) - SSL/TLS 证书到期监控，提前预警
 
 ## Interesting
 
