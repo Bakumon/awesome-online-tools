@@ -29,6 +29,7 @@
 - [ILoveIMG](http://www.iloveimg.com/) - every tool you could want to edit images
 - [Textik](https://textik.com/) - ASCII diagrams editor
 - [emojipedia](http://emojipedia.org/) - 各种类型的emoji表情
+- [Vizua](https://vizua.io/) - Free browser-based image tools — compress, resize, convert (WebP, AVIF), remove background, upscale, OCR. 91 tools, all client-side.
 
 ## Screenshot
 - [Screen Guru](https://screen.guru/) - Take clean screenshot of any websites
@@ -63,6 +64,7 @@
 - [SM.MS](https://sm.ms/) - 优质图床，支持 https
 - [roop.io](https://reep.io/) - 有密码保护的文件分享
 - [BulkPicTools](https://bulkpictools.com/) - 纯浏览器端的批量图片处理工具，支持压缩、格式转换、裁剪等，无上传保护隐私。
+- [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. Client-side via WebAssembly; files never leave the browser.
 
 ## Develop
 
