@@ -29,6 +29,7 @@
 - [ILoveIMG](http://www.iloveimg.com/) - every tool you could want to edit images
 - [Textik](https://textik.com/) - ASCII diagrams editor
 - [emojipedia](http://emojipedia.org/) - 各种类型的emoji表情
+- [Clipperly](https://www.clipperly.com) - Convert, edit and optimize your files, online & free
 
 ## Screenshot
 - [Screen Guru](https://screen.guru/) - Take clean screenshot of any websites
