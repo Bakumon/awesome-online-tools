@@ -63,6 +63,7 @@
 - [SM.MS](https://sm.ms/) - 优质图床，支持 https
 - [roop.io](https://reep.io/) - 有密码保护的文件分享
 - [BulkPicTools](https://bulkpictools.com/) - 纯浏览器端的批量图片处理工具，支持压缩、格式转换、裁剪等，无上传保护隐私。
+- [FreeToolBox](https://www.freetoolbox.site/) - 免费在线工具箱，PDF压缩、图片处理、JSON格式化等60+工具，全部浏览器本地处理，无需上传。
 
 ## Develop
 
